@@ -43,4 +43,4 @@ This function is better when it acheives a lower mean_squared_log_error using th
 
 * Space partitioning data structure based on n dimentions (in our case 2)
 
-<img src='kdtree.jpg' />
+<img src='kdtree.png' />
